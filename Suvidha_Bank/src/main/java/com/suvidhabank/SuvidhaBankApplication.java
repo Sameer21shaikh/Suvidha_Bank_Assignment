@@ -15,7 +15,7 @@ import com.suvidhabank.entity.Employee;
 import com.suvidhabank.entity.Loan;
 import com.suvidhabank.repository.LoanRepository;
 import com.suvidhabank.service.EmployeeService;
-
+// This is my main class
 @SpringBootApplication
 public class SuvidhaBankApplication {
 	@Autowired
